@@ -10,6 +10,7 @@
     "core-elements": "Polymer/core-elements#master",
     "paper-elements": "Polymer/paper-elements#master",
     "more-elements": "Polymer/more-elements#master",
+    "topeka-elements": "Polymer/topeka-elements#master",
     "blackhawk-elements": "BlackhawkWebComponents/blackhawk-elements#master"
   }
 }
